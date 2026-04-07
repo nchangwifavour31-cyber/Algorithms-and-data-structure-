@@ -1,2 +1,5 @@
-# Algorithms-and-data-structure-
-Prime number in C++ assignment 
+#include<iostream>
+using namespace std;
+int main()
+{
+   int 
